@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-19T05:30:46.662Z'
-dateModified: '2016-04-19T05:30:21.753Z'
+datePublished: '2016-04-19T05:33:05.555Z'
+dateModified: '2016-04-19T05:30:47.522Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-whistlestop-is.md
